@@ -45,7 +45,7 @@ const Footer = () => {
           <h4>A propose de nous</h4>
           <p>
             Pascal LUCAS, Développeur web Front-end. Discutons ensemble de votre
-            projet React, Javacript, wordpress
+            projet React, Javacript, wordpress.
           </p>
           <div className="social">
             <FaFacebook
