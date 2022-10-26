@@ -7,7 +7,7 @@ const ProjectCardData = [
 imgsrc: pro1,
 title: "Portfolio react-responsive",
 text: "Création d'un portfolio personnel afin de montrer une partiee des mes compétences",
-view: "#",
+view: "https://github.com/Pascal1494/porfolio-react",
 
 },
 {
