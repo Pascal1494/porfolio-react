@@ -12,8 +12,8 @@ const PricingCards = () => {
           <span className="bar"></span>
           <p className="card-evolut">A partir de</p>
           <p className="btc">1500 €</p>
-          <p>- Jours -</p>
-          <p>- Features -</p>
+//           <p>- Jours -</p>
+//           <p>- Features -</p>
           <p>- Responsive design -</p>
           <Link to="/contact" className="button">Poursuive</Link>
         </div>
@@ -23,8 +23,8 @@ const PricingCards = () => {
           <span className="bar"></span>
           <p className="card-evolut"></p>
           <p className="btc">Sur devis</p>
-          <p>-  Jours -</p>
-          <p>- Features -</p>
+//           <p>-  Jours -</p>
+//           <p>- Features -</p>
           <p>- Responsive design -</p>
           <Link to="/contact" className="button">Poursuive</Link>
         </div>
@@ -34,8 +34,8 @@ const PricingCards = () => {
           <span className="bar"></span>
           <p className="card-evolut"></p>
           <p className="btc">Sur devis</p>
-          <p>-  Jours -</p>
-          <p>- Features -</p>
+//           <p>-  Jours -</p>
+//           <p>- Features -</p>
           <p>- Responsive design -</p>
           <Link to="/contact" className="button">Poursuive</Link>
         </div>
